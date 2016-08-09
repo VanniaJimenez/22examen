@@ -1,0 +1,101 @@
+
+/*header*/
+.negro {
+ background-color: black;
+ height: 100px;
+
+}
+
+li {
+	display: inline-block;
+	padding: 10px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.white{
+	color: white;	
+}
+
+.mar-to {
+	margin-top: 20px;
+}
+
+.gent {
+	font-family: monospace;
+	font-size: 40px;
+	color: white;
+	margin-top: 20px;
+	margin-left: 70px;
+}
+/* Primera Seccion*/
+.primage { 
+	width: 650px;
+	height: 450px;
+	padding: 40px;
+	margin-left: 120px;
+}
+h2 {
+	margin-top: 40px;
+	font-family: monospace;
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+.botona { 
+	margin-top: 30px;
+	border-radius: 30px;
+	border:none;
+	width: 90px;
+	height: 30px;
+	background-color: gray;
+	color: lightgray;
+	font-size:11px;
+	font-family: consolas;
+}
+.tipo {
+	font-family: monospace;
+	margin-bottom: 30px;
+	margin-right: 80px;
+}
+
+/*Segundaseccion*/ 
+h3 {
+	font-family: consolas;
+	font-size: 30px;
+	margin-left: 170px;
+	margin-top: 45px;
+}
+.segundo {
+	color: black;
+	font-family: consolas;	
+	font-size: 12px;
+}
+
+.s {
+	margin-left: 170px;
+}
+.sec {
+	border:dashed 1px lightgray;
+}
+.fotoa {
+	width:450px;
+	height: 210px;
+	margin-top: 30px;
+}
+.uno {
+	font-family: consolas;
+	color: gray;
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
+.dos {
+	font-size: 13px;
+}
+.d {
+	margin-bottom: 75px;
+}
+.botonb {
+	
+}
