@@ -1,0 +1,170 @@
+
+/*header*/
+.negro {
+ background-color: #1C1F33;
+ height: 100px;
+
+}
+
+li {
+	display: inline-block;
+	padding: 10px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.white{
+	color: white;	
+}
+
+.mar-to {
+	margin-top: 20px;
+}
+
+.gent {
+	font-family: monospace;
+	font-size: 40px;
+	color: white;
+	margin-top: 20px;
+	margin-left: 70px;
+}
+/* Primera Seccion*/
+.primage { 
+	width: 650px;
+	height: 450px;
+	padding: 40px;
+	margin-left: 120px;
+}
+h2 {
+	margin-top: 40px;
+	font-family: monospace;
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+.botona { 
+	margin-top: 30px;
+	border-radius: 30px;
+	border:none;
+	width: 90px;
+	height: 30px;
+	background-color: gray;
+	color: lightgray;
+	font-size:11px;
+	font-family: consolas;
+}
+.tipo {
+	font-family: monospace;
+	margin-bottom: 30px;
+	margin-right: 80px;
+}
+
+/*Segundaseccion*/ 
+h3 {
+	font-family: consolas;
+	font-size: 30px;
+	margin-left: 170px;
+	margin-top: 45px;
+}
+.segundo {
+	color: black;
+	font-family: consolas;	
+	font-size: 12px;
+}
+
+.s {
+	margin-left: 170px;
+}
+.sec {
+	border:dashed 1px lightgray;
+}
+.fotoa {
+	width:450px;
+	height: 210px;
+	margin-top: 30px;
+}
+.uno {
+	font-family: consolas;
+	color: gray;
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
+.dos {
+	font-size: 13px;
+}
+.d {
+	margin-bottom: 75px;
+}
+.botonb {
+	margin-top: 30px;
+	border-radius: 30px;
+	border:none;
+	width: 100px;
+	height: 30px;
+	background-color: gray;
+	color: lightgray;
+	font-size:11px;
+	font-family: consolas;
+	margin-left: 600px;	
+	margin-bottom:65px;
+}
+.tuit {
+	 margin-top: 30px;
+	 width: 80px;
+	 height: 80px;
+}
+
+.botonc {
+	border-radius: 10px;
+	width: 70px;
+	height: 20px;
+	color: lightgray;
+	background-color: gray;
+	border:none;
+	margin-bottom: 40px;
+}
+
+.pa {
+	margin-top: 30px;
+	font-family: consolas;
+	font-size: 20px;
+}
+
+.rosa {
+	color:#E23D80;
+}
+
+/*Footer*/
+
+.tam { 
+	height: 400px;
+
+}
+.blanco {
+	color: lightgray;
+}
+.img {
+	border-radius: 50px;
+	width: 30px;
+	height: 30px;
+	padding: 2px;
+	border:dashed 1px white;
+	margin-top: 30px;
+	
+}
+
+.cer {
+	color:#9E789D
+}
+
+.gent {
+	font-size: 22px;
+	margin-top: 20px;
+}
+
+.top {
+	margin-top: 20px;
+	font-family: consolas;
+	font-size: 15px;
+}
