@@ -1,14 +1,21 @@
 
 /*header*/
 .negro {
- background-color: #1C1F33;
+ background-color: #494046;
  height: 100px;
 
+}
+
+.gent {
+	font-size: 42px;
+	margin-top: 20px;
+	font-family: 'Open Sans Condensed', sans-serif;
 }
 
 li {
 	display: inline-block;
 	padding: 10px;
+	font-family: 'Slabo 27px', serif;
 }
 
 a {
@@ -31,16 +38,24 @@ a {
 	margin-left: 70px;
 }
 /* Primera Seccion*/
+.bg-w {
+	background-color: white;
+	width: 1090px;
+	height: 2100px;
+	margin-left: 150px;
+	border-style: outset;
+	margin-top: -2px;
+}
 .primage { 
 	width: 650px;
 	height: 450px;
 	padding: 40px;
-	margin-left: 120px;
+	margin-left: 10px;
 }
 h2 {
 	margin-top: 40px;
-	font-family: monospace;
-	font-size: 20px;
+	font-family: 'Slabo 27px', serif
+	font-size: 25px;
 	margin-bottom: 20px;
 }
 .botona { 
@@ -64,7 +79,7 @@ h2 {
 h3 {
 	font-family: consolas;
 	font-size: 30px;
-	margin-left: 170px;
+	margin-left: 50px;
 	margin-top: 45px;
 }
 .segundo {
@@ -74,7 +89,7 @@ h3 {
 }
 
 .s {
-	margin-left: 170px;
+	margin-left: 50px;
 }
 .sec {
 	border:dashed 1px lightgray;
@@ -113,6 +128,7 @@ h3 {
 	 margin-top: 30px;
 	 width: 80px;
 	 height: 80px;
+	 margin-left: 40px;
 }
 
 .botonc {
@@ -126,9 +142,9 @@ h3 {
 }
 
 .pa {
-	margin-top: 30px;
-	font-family: consolas;
-	font-size: 20px;
+	margin-top: 35px;
+	font-family: 'Slabo 27px', serif;
+	font-size: 30px;
 }
 
 .rosa {
@@ -155,16 +171,42 @@ h3 {
 }
 
 .cer {
-	color:#9E789D
+	color:#9E789D;
+	padding: 5px;
 }
 
-.gent {
-	font-size: 22px;
-	margin-top: 20px;
+
+
+.gente {
+	font-size: 30px;
+	margin-left: 170px;
+	margin-bottom: 0px;
 }
 
 .top {
 	margin-top: 20px;
 	font-family: consolas;
 	font-size: 15px;
+}
+.botond {
+	width: 200px;
+	height: 35px;
+	border-radius: 5px;
+	background-color:#332B2E;
+	color:white;
+	border-style: inset;
+	border:transparent 1px;
+	
+}
+.left {
+	margin-left: 170px;
+
+}
+
+.top {
+	margin-top: -60px;
+}
+
+.mov {
+	margin-left: 180px;
 }
